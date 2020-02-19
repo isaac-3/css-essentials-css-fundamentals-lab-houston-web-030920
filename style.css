@@ -21,11 +21,11 @@ header {
 #featured-property p {
   width: 800px;
   text-align: center;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
 }
 #details div {
   display: block;
-  float: right;
+  float: left;
   width: 25%;
   text-align: center;
   background-color: red;
