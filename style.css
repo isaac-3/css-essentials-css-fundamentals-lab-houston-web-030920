@@ -6,8 +6,8 @@ body {
 h1 {
   text-align: center;
 }
-#featured-property {
-  align-items: center;
+figure#featured-property {
+  text-align: center;
 }
 nav a {
   text-align: center;
