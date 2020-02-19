@@ -9,12 +9,12 @@ h1 {
 #featured-property figure {
   text-align: center;
 }
-header nav {
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey;
-}
+/*header nav {*/
+/*  text-align: center;*/
+/*  padding-left: 10px;*/
+/*  padding-right: 10px;*/
+/*  background-color: grey;*/
+/*}*/
 nav a {
   padding: 10px;
   text-align: center;
