@@ -6,7 +6,9 @@ body {
 h1 {
   text-align: center;
 }
-
+figure#featured-property {
+  align-items: center;
+}
 nav a {
   text-align: center;
   padding-left: 10px;
