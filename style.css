@@ -12,13 +12,11 @@ h1 {
 nav a {
   background-color: grey;
   padding: 10px;
-  margin: 0 auto; 
 }
 header {
   text-align: center;
 }
 #featured-property p {
-  display: block;
   width: 800px;
   text-align: center;
   margin: 0 auto;
