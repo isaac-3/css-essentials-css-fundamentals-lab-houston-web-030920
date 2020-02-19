@@ -20,7 +20,7 @@ header nav {
   text-align: center;
   margin: 0 auto;
 }
-div#details {
+#details div {
   display: block;
   float: left;
   width: 25%;
