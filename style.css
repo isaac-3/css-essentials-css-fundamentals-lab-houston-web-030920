@@ -7,9 +7,9 @@ h1 {
   text-align: center;
 }
 figure {
-  text-align: center;
+  align-content: center;
 }
-nav > a {
+nav a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
