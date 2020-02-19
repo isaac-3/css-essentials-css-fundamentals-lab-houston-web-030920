@@ -14,9 +14,9 @@ nav a {
   padding: 10px;
   margin: 0 auto; 
 }
-/* header nav{*/
-/*  text-align: center;*/
-/*}*/
+ header nav{
+  text-align: center;
+}
 #featured-property p {
   width: 800px;
   text-align: center;
