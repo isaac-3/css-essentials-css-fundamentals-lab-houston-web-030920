@@ -12,6 +12,7 @@ h1 {
 nav a {
   background-color: grey;
   padding: 10px;
+  margin: 0 auto; 
 }
 header {
   text-align: center;
