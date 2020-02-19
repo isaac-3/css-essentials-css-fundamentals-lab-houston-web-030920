@@ -13,9 +13,7 @@ header nav {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
-    a {
-    background-color: grey;
-  }
+  background-color: grey;
 }
 #featured-property {
   text-align: center;
