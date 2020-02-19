@@ -22,7 +22,9 @@ header nav {
 }
 #details {
   display: block;
+  align-content:
 }
 #details div {
   float: left;
+  width: 25%;
 }
