@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 figure#featured-property {
-   text-align: center;
+  margin: auto;
 }
 a {
   text-align: center;
