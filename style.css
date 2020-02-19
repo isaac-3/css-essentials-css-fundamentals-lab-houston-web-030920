@@ -9,7 +9,7 @@ h1 {
 figure {
   align-content: center;
 }
-header nav {
+header nav a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
